@@ -7,15 +7,18 @@ This document contains all the scripts required to performed DEG analysis and wg
 System requirements 
 
 Hardware requirements
+
 This code requires only a standard computer with enough RAM to support the in-memory operations.
 
 Software requirements
 
 OS Requirements
+
 This package is supported for macOS and Linux. The package has been tested on the following systems:
 macOS: Big Sur (11.7.10)
 
 Python Dependencies
+
 numpy (1.19.2)
 scikit-learn (1.2.0)
 pandas (1.1.3)
